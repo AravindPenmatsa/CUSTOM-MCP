@@ -1,0 +1,13 @@
+{
+	"mcpServers": {
+		"my-mcp-server-custom": {
+			"type": "stdio",
+			"command": "npm",
+			"args": [
+				"run",
+				"dev:mcp"
+			],
+			"cwd": "/Users/aravindpenmatsa/Documents/mcp-ecommerce-crud"
+		}
+	}
+}
